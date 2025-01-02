@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  padding: 1px;
+  margin-right: 30px;
+  margin-left: 30px;
+  background-color: rgb(168, 23, 168);
+  color: whitesmoke;
+}
